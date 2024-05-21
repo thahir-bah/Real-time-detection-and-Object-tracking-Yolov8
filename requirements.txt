@@ -1,6 +1,6 @@
 streamlit
 pathlib
-PIL
+pillow
 ultralytics
 time
 cv2
